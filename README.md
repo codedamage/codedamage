@@ -1,21 +1,114 @@
-# 💫 About Me:
-🔭 I’m currently working on All-in-One WP websites Intelegence center<br>👯 I’m looking to collaborate on an AI-driven WP compatable solutions<br>🤝 I’m looking for help with anything that involves Wordpress or Laravel<br>🌱 I’m currently learning about AI-driven architecture<br>💬 Ask me anything about WP<br>⚡ Fun fact: The first ever website is still online — it was launched in 1991 by Tim Berners-Lee at CERN
+<p align="center">
+  <img src="assets/header.svg" alt="Viktor Oleksiukh: backend engineer moving from PHP/Laravel/WordPress to Node.js/TypeScript" width="100%"/>
+</p>
 
-
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/stereocoded.bsky.social) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/viktor-oleksiukh) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/codedamage) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@stereocode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oleksuh@gmail.com) 
-
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=flat&logo=elasticsearch&logoColor=white) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=flat&logo=gatsby&logoColor=white) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=flat&logo=gulp&logoColor=white) ![Joomla](https://img.shields.io/badge/joomla-%235091CD.svg?style=flat&logo=joomla&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=flat&logo=livewire&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=flat&logo=travis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=codedamage&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=codedamage&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=codedamage&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <a href="https://linkedin.com/in/viktor-oleksiukh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:oleksuh@gmail.com"><img src="https://img.shields.io/badge/oleksuh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://bsky.app/profile/stereocoded.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=flat-square&logo=bluesky&logoColor=white" alt="Bluesky"/></a>
+  <a href="https://mastodon.social/@stereocode"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=flat-square&logo=mastodon&logoColor=white" alt="Mastodon"/></a>
+  <img src="https://img.shields.io/badge/Wrocław%2C%20PL-remote-2F7D4A?style=flat-square" alt="Wrocław, Poland · Remote"/>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=codedamage&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I'm a backend engineer with years of production **PHP, Laravel and WordPress** work behind me, and I'm now moving deliberately into **Node.js and TypeScript**.
+
+What I enjoy most isn't the feature ticket. It's the layer underneath it: **the tools, pipelines and frameworks that make a whole team faster and safer.** Monitoring platforms, security programs, performance tracking, and AI-assisted development workflows that everyone on the team inherits through git.
+
+## 🧰 What I build
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Platform & tooling**
+
+Laravel 12 admin platform that aggregates **security and performance data** across a whole portfolio of managed WordPress sites: CVE/CVSS tracking, header checks, Core Web Vitals deltas, regression flags and conditional reporting.
+
+</td>
+<td width="33%" valign="top">
+
+**Security & performance**
+
+Authored a **6-layer WordPress security framework** (infrastructure → CMS → application → perimeter → monitoring → governance) and a performance program built on automated measurement, sprints and client-facing reports.
+
+</td>
+<td width="33%" valign="top">
+
+**AI-assisted engineering**
+
+Version-controlled **AI dev layer** shared across projects: agents with persistent memory, MCP integrations, a Semgrep + LLM CI security pipeline, a WordPress-as-MCP-server prototype, and AI-generated Schema.org JSON-LD in production.
+
+</td>
+</tr>
+</table>
+
+## 🚧 Right now
+
+Working through a structured, mentored **Node.js backend program**, deliberately systems-first rather than framework-first:
+
+```text
+TypeScript type system ─▶ event loop & streams ─▶ Fastify + Postgres service
+      ─▶ transactions & isolation levels ─▶ RabbitMQ, Outbox & Sagas
+      ─▶ NestJS microservices ─▶ OpenTelemetry · Prometheus · Grafana
+```
+
+Projects from this track will go public here as they reach review quality.
+
+## 🛰️ Selected projects
+
+| | Project | What it is | Stack |
+|:-:|---|---|---|
+| 🎮 | **[Elite-RG35XX](https://github.com/codedamage/Elite-RG35XX)** | Native port of *Elite: The New Kind* to the Anbernic RG35XX handheld. Cross-compiled for armv5te/uClibc through a custom SDL 1.2 backport shim, software-rendered, with a Docker-based headless simulator for screenshots. | C · SDL · Docker |
+| 🧠 | **[CodeDex](https://github.com/codedamage/CodeDex)** | Spaced-repetition flashcard app with a hand-rolled SM-2 scheduler, review state kept separate from content, markdown card backs and image uploads. | TypeScript · Next.js |
+| 🎲 | **inkRPG** 🔒 | AI-narrated, single-player tabletop RPG engine as a KOReader plugin: game-agnostic engine plus content-only game packs, verified end to end in a Dockerised KOReader emulator. | Lua · Docker |
+| 📚 | **Gemma2b-MD-RAG-Base** 🔒 | Fully local RAG stack: point it at a folder of Markdown files and ask questions. Ollama + ChromaDB + an Express API, with hash-based incremental re-indexing. No cloud, no API keys. | Node.js · Docker · LLM |
+| ⚔️ | **MicrolearningJS** 🔒 | A 49-quest JS curriculum where every quest adds real code to one growing CLI RPG, plus a Next.js tracker with XP and streaks. | JavaScript · TypeScript |
+
+<sub>🔒 = private for now. Happy to walk through any of them on a call.</sub>
+
+## 🛠️ Stack
+
+**Production:**<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-1B2A40?style=flat-square&logo=semgrep&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+
+**Growing into:**<br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
+
+**AI tooling:**<br/>
+![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![MCP](https://img.shields.io/badge/Model%20Context%20Protocol-111111?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+
+## 🧭 How I work
+
+- **Frameworks over one-offs.** If a problem shows up on three projects, it deserves a tool, a checklist or a pipeline.
+- **Measure, then optimise.** Performance and security work starts from data (PSI, CVSS, profiles), not guesses.
+- **AI as a force multiplier, not a crutch.** I design the workflow, review the output, and own the result.
+- **Offline-first when it matters.** Self-hosted, local-LLM and privacy-respecting setups are a recurring theme.
+
+## 🕹️ Off the clock
+
+Porting games to retro handhelds, running a self-hosted homelab, flight-sim nerdery, and painting Warhammer 40k miniatures.
+
+## 🤝 Let's talk
+
+Open to conversations about **backend and platform work (Node.js/TS or PHP/Laravel)**, **WordPress architecture, security and performance**, and **AI-assisted developer tooling**. The fastest way to reach me is [LinkedIn](https://linkedin.com/in/viktor-oleksiukh) or email.

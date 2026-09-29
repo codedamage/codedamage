@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="Viktor Oleksiukh: backend engineer, PHP to Node.js">
+  <style>
+    .bg{fill:#0F1522}
+    .bar{fill:#172033}
+    .dot1{fill:#E07A6C}.dot2{fill:#E3B35E}.dot3{fill:#6CC08A}
+    .mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+    .prompt{fill:#6CC08A}
+    .cmd{fill:#D9E1EE}
+    .out{fill:#94A0B5}
+    .hl{fill:#86B4F0}
+    .amber{fill:#E3B35E}
+    .name{font-family:ui-sans-serif,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;font-weight:700;fill:#E2E8F2}
+    .l{opacity:0;animation:in .4s ease-out forwards}
+    .l1{animation-delay:.2s}.l2{animation-delay:.7s}.l3{animation-delay:1.2s}.l4{animation-delay:1.7s}.l5{animation-delay:2.2s}
+    .cursor{animation:blink 1s steps(1) infinite}
+    @keyframes in{to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+    @media (prefers-reduced-motion:reduce){.l{opacity:1;animation:none}.cursor{animation:none}}
+  </style>
+  <rect class="bg" width="900" height="240" rx="14"/>
+  <rect class="bar" width="900" height="34" rx="14"/>
+  <rect class="bar" y="20" width="900" height="14"/>
+  <circle class="dot1" cx="22" cy="17" r="6"/><circle class="dot2" cx="42" cy="17" r="6"/><circle class="dot3" cx="62" cy="17" r="6"/>
+  <text class="mono out" x="450" y="22" font-size="12" text-anchor="middle">codedamage@wroclaw: ~</text>
+
+  <text class="name" x="32" y="80" font-size="34">Viktor Oleksiukh</text>
+
+  <g class="mono" font-size="15">
+    <text class="l l1" x="32" y="116"><tspan class="prompt">$</tspan><tspan class="cmd"> whoami</tspan></text>
+    <text class="l l2" x="32" y="140"><tspan class="out">backend engineer · </tspan><tspan class="hl">PHP / Laravel / WordPress</tspan><tspan class="out"> → </tspan><tspan class="amber">Node.js / TypeScript</tspan></text>
+    <text class="l l3" x="32" y="164"><tspan class="out">builds the tooling behind the product: security · performance · AI-assisted dev</tspan></text>
+    <text class="l l4" x="32" y="196"><tspan class="prompt">$</tspan><tspan class="cmd"> cat now.txt</tspan></text>
+    <text class="l l5" x="32" y="220"><tspan class="out">Fastify · PostgreSQL · RabbitMQ · NestJS · OpenTelemetry </tspan><tspan class="cmd cursor">▍</tspan></text>
+  </g>
+</svg>
